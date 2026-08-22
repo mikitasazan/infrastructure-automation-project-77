@@ -8,3 +8,11 @@ provider "datadog" {
     app_key = var.datadog_app_key
     api_url = "https://app.datadoghq.eu"
 }
+
+terraform {
+  required_providers {
+    datadog = {
+      source = "DataDog/datadog"
+    }
+  }
+}
