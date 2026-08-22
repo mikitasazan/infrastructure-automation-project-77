@@ -1,2 +1,2 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/mikitasazan/infrastructure-automation-project-77/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/mikitasazan/infrastructure-automation-project-77/actions)
+[![Actions Status](https://github.com/xycainoff/infrastructure-automation-project-77/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/xycainoff/infrastructure-automation-project-77/actions)
