@@ -1,2 +1,4 @@
 ---
-collections: []
+collections:
+  - name: community.docker
+  - name: datadog.dd
